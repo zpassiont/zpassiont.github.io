@@ -1,11 +1,11 @@
 # Site settings
 author: Zitai Huang
-title: 
+title: Zitai's Blog
 header-img: img/home-bg.png
 email: mywpiedu@gmail.com
 copyright_name: Zitai Huang
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Passion for life
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  zpassiont
